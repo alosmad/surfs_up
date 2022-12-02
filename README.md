@@ -10,7 +10,7 @@
 
 IMAGES
 ![June](https://github.com/alosmad/surfs_up/blob/c1999bd5c4d1db3714e05841b4fee7dfcec51362/June.png)
-![December](https://github.com/alosmad/surfs_up/blob/d90976bf502893269b8fe53ff8122b642ac2e914/December.png)
+![December](https://github.com/alosmad/surfs_up/blob/e85949b6961789bd52d827c58e5d8fb7e19cf812/December.png)
 
 ***Summary***
 
